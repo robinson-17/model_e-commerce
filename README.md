@@ -1,10 +1,6 @@
 # model_e-commerce
 Relational Database Model for E-commerce
 
-Segue uma descrição breve para o modelo refinado de E-COMMERCE que pode ser usada no repositório do GitHub:
-
----
-
 ### Descrição do Projeto: Modelo de Banco de Dados E-COMMERCE Refinado
 
 Este modelo representa um **banco de dados relacional refinado** para um sistema de E-COMMERCE, projetado para gerenciar eficientemente clientes, pedidos, produtos, pagamentos, estoques e entregas. O objetivo principal é oferecer uma estrutura clara, flexível e escalável que atenda às necessidades operacionais de plataformas de comércio eletrônico.
